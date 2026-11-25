@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "TextCraft",
+    "slug": "textcraft",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.aryandigitalsolutions.textcraft",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#F6F8FC"
+      }
+    }
+  }
+}
